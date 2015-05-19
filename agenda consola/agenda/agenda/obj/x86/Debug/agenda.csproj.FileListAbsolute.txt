@@ -1,0 +1,26 @@
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\bin\Debug\agenda.exe
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\bin\Debug\agenda.pdb
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\obj\x86\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\obj\x86\Debug\agenda.exe
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\kratos\AppData\Local\Temporary Projects\agenda\obj\x86\Debug\agenda.ventana.resources
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.exe
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.ventana.resources
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.ventana2.resources
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.exe
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.ventana.resources
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.ventana2.resources
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.Properties.Resources.resources
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\CYNTHIA\Pictures\dfrvfrv\agenda (1)\agenda\agenda\obj\x86\Debug\agenda.ventana3.resources
