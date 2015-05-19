@@ -1,0 +1,6 @@
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.exe
+C:\Users\kratos\Documents\Visual Studio 2010\Projects\agenda\agenda\obj\x86\Debug\agenda.pdb
+C:\Users\CYNTHIA\Downloads\agenda\agenda\agenda\obj\x86\Debug\agenda.exe
+C:\Users\CYNTHIA\Downloads\agenda\agenda\agenda\obj\x86\Debug\agenda.pdb
